@@ -1,14 +1,16 @@
 import "./About.css";
+
 function About() {
   return (
     <section id="about" className="about">
-
       <div className="about-image">
-        <img src="/about.png" alt="Cafe Interior" />
+        <img
+          src={`${import.meta.env.BASE_URL}about.png`}
+          alt="Cafe Interior"
+        />
       </div>
 
       <div className="about-content">
-
         <h2>About Sip Stories</h2>
 
         <p>
@@ -24,9 +26,7 @@ function About() {
         </p>
 
         <button>Read More</button>
-
       </div>
-
     </section>
   );
 }

@@ -1,14 +1,14 @@
 import "./Gallery.css";
 
 const galleryImages = [
-  "/latte.png",
-  "/cappuccino.png",
-  "/iced-coffee.png",
-  "/butter-croissant.png",
-  "/chocolate-cake.png",
-  "/blueberry-muffin.png",
-  "/sandwich.png",
-  "/cookies.png",
+  `${import.meta.env.BASE_URL}latte.png`,
+  `${import.meta.env.BASE_URL}cappuccino.png`,
+  `${import.meta.env.BASE_URL}iced-coffee.png`,
+  `${import.meta.env.BASE_URL}butter-croissant.png`,
+  `${import.meta.env.BASE_URL}chocolate-cake.png`,
+  `${import.meta.env.BASE_URL}blueberry-muffin.png`,
+  `${import.meta.env.BASE_URL}sandwich.png`,
+  `${import.meta.env.BASE_URL}cookies.png`,
 ];
 
 function Gallery() {
