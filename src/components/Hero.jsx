@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section
       className="hero"
-      style={{ backgroundImage: "url('/hero.png')" }}
+      style={{ backgroundImage: "url('hero.png')" }}
     >
       <div className="overlay">
         <h1>Welcome to<br />Sip Stories</h1>

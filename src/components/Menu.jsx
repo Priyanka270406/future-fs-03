@@ -4,42 +4,42 @@ const menuItems = [
   {
     name: "Cappuccino",
     price: "₹180",
-    image: "/cappuccino.png",
+    image: `${import.meta.env.BASE_URL}cappuccino.png`,
   },
   {
     name: "Latte",
     price: "₹190",
-    image: "/latte.png",
+    image: `${import.meta.env.BASE_URL}latte.png`,
   },
   {
     name: "Chocolate Cake",
     price: "₹220",
-    image: "/chocolate-cake.png",
+    image: `${import.meta.env.BASE_URL}chocolate-cake.png`,
   },
   {
     name: "Butter Croissant",
     price: "₹150",
-    image: "/butter-croissant.png",
+    image: `${import.meta.env.BASE_URL}butter-croissant.png`,
   },
   {
     name: "Blueberry Muffin",
     price: "₹160",
-    image: "/blueberry-muffin.png",
+    image: `${import.meta.env.BASE_URL}blueberry-muffin.png`,
   },
   {
     name: "Iced Coffee",
     price: "₹200",
-    image: "/iced-coffee.png",
+    image: `${import.meta.env.BASE_URL}iced-coffee.png`,
   },
   {
     name: "Sandwich",
     price: "₹210",
-    image: "/sandwich.png",
+    image: `${import.meta.env.BASE_URL}sandwich.png`,
   },
   {
     name: "Cookies",
     price: "₹120",
-    image: "/cookies.png",
+    image: `${import.meta.env.BASE_URL}cookies.png`,
   },
 ];
 
