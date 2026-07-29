@@ -27,6 +27,6 @@ https://priyanka270406.github.io/future-fs-03/
 https://github.com/Priyanka270406/future-fs-03
 
 ## 👩‍💻 Developed By
-**Priya**  
+**Priyanka**  
 B.Tech Information Technology Student  
 Future Intern – Task 3
