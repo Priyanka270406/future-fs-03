@@ -1,16 +1,32 @@
-# React + Vite
+# ☕ Sip Stories – Coffee Shop Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Project Overview
+Sip Stories is a modern and responsive coffee shop website developed as **Task 3** for the **Future Intern** internship program. The website provides an engaging user experience with a clean design and responsive layout.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Responsive Navigation Bar
+- Hero Section
+- About Section
+- Coffee & Bakery Menu
+- Image Gallery
+- Customer Testimonials
+- Contact Section
+- Fully Responsive Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS3
+- GitHub Pages
 
-## React Compiler
+## 🌐 Live Website
+https://priyanka270406.github.io/future-fs-03/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 GitHub Repository
+https://github.com/Priyanka270406/future-fs-03
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Developed By
+**Priya**  
+B.Tech Information Technology Student  
+Future Intern – Task 3
